@@ -1,31 +1,38 @@
 {
     "empleado":[{
             "dni":"54375915M",
-            "horaInicio": [ 9, 16]
+            "horaInicio": [ 9, 16],
+            "horaFin": [ 13, 20]
         },
         {
             "dni":"54775985S",
-            "horaInicio": [ 7 ]
+            "horaInicio": [ 7 ],
+            "horaFin": [ 15]
         },
         {
             "dni":"54779374P",
-            "horaInicio": [ 10 , 16 ]
+            "horaInicio": [ 10 , 16 ],
+            "horaFin": [ 14, 20]
         },
         {
             "dni":"53776351L",
-            "horaInicio": [ 8 ]
+            "horaInicio": [ 8 ],
+            "horaFin": [ 15]
         },
         {
             "dni":"53776368D",
-            "horaInicio": [ 10 , 17 ]
+            "horaInicio": [ 10 , 17 ],
+            "horaFin": [ 15]
         },
         {
             "dni":"53776351Ñ",
-            "horaInicio": [ 15 ]
+            "horaInicio": [ 15 ],
+            "horaFin": [ 21]
         },
         {
             "dni":"53786541E",
-            "horaInicio": [ 16 ]
+            "horaInicio": [ 16 ],
+            "horaFin": [ 21]
         }
     ]
 }
