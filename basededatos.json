@@ -1,0 +1,31 @@
+{
+    "empleado":[{
+            "dni":"54375915M",
+            "horaInicio": [ 9, 16]
+        },
+        {
+            "dni":"54775985S",
+            "horaInicio": [ 7 ]
+        },
+        {
+            "dni":"54779374P",
+            "horaInicio": [ 10 , 16 ]
+        },
+        {
+            "dni":"53776351L",
+            "horaInicio": [ 8 ]
+        },
+        {
+            "dni":"53776368D",
+            "horaInicio": [ 10 , 17 ]
+        },
+        {
+            "dni":"53776351Ñ",
+            "horaInicio": [ 15 ]
+        },
+        {
+            "dni":"53786541E",
+            "horaInicio": [ 16 ]
+        }
+    ]
+}
